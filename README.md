@@ -1,6 +1,6 @@
 <!-- README.md for Prateek Singh -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Prateek Singh!;Full+Stack+Developer+%F0%9F%92%BB;Lifelong+Learner+%F0%9F%8C%8A;Open+Source+Contributor+%F0%9F%92%AA" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Prateek+Singh!;Full+Stack+Developer+%F0%9F%92%BB;Lifelong+Learner+%F0%9F%8C%8A;Open+Source+Contributor+%F0%9F%92%AA" />
 </p>
 
 <p align="center">
